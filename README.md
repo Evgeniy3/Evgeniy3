@@ -1,4 +1,4 @@
-### Hello my friend ![Alt Text](https://i.gifer.com/7cHR.gif)
+### Hello my friend ![7cHR](https://user-images.githubusercontent.com/90893731/203393326-10f82cc7-7da8-4dd9-9941-284fa8f61014.gif)
 
 ## I`m a junior frontend developer.
 
