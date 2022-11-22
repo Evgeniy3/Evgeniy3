@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello my friend ![Alt Text](https://i.gifer.com/7cHR.gif)
 
-<!--
-**Evgeniy3/Evgeniy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I`m a junior frontend developer.
 
-Here are some ideas to get you started:
+### Languages and tools:
+![HTML](https://img.shields.io/badge/-HTML-04110f?style=for-the-badge&logo=HTML&logoColor=e44d26)
+![CSS](https://img.shields.io/badge/-CSS-04110f?style=for-the-badge&logo=CSS&logoColor=1c80bf)
+![CASS](https://img.shields.io/badge/-CASS-04110f?style=for-the-badge&logo=CASS&logoColor=cb6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-04110f?style=for-the-badge&logo=Bootstrap&logoColor=7952b3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-04110f?style=for-the-badge&logo=JavaScript&logoColor=ebce46)
+![React](https://img.shields.io/badge/-React-04110f?style=for-the-badge&logo=React&logoColor=9ce8fc)
+![Redux](https://img.shields.io/badge/-Redux-04110f?style=for-the-badge&logo=Redux&logoColor=764abc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![Telegramm](https://img.shields.io/badge/-Telegramm-04110f?style=for-the-badge&logo=Telegramm&logoColor=418cb8)](https://t.me/zzEvgeniyz)
+
+###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeniy3_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
