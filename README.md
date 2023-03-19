@@ -1,7 +1,7 @@
 ## Hello my friend!
 
 ### I`m a junior frontend developer.
-### [My CV](https://cv.hexlet.io/resumes/1768)
+### [My CV](https://career.habr.com/ievgeny-alexandrovi)
 
 ### Languages and tools:
 ![HTML](https://img.shields.io/badge/-HTML-04110f?style=for-the-badge&logo=html&logoColor=e44d26)
