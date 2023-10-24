@@ -13,7 +13,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-04110f?style=for-the-badge&logo=Redux&logoColor=764abc)
 
 ### Connect with me:
-[![Telegramm](https://img.shields.io/badge/-Telegramm-04110f?style=for-the-badge&logo=Telegramm&logoColor=418cb8)](https://t.me/zzEvgeniyz)
+[![Telegramm](https://img.shields.io/badge/-Telegramm-04110f?style=for-the-badge&logo=Telegramm&logoColor=418cb8)](https://t.me/IIEvgeniyII)
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeniy3&show_icons=true&theme=radical)
