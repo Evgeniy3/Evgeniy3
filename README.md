@@ -1,6 +1,6 @@
 ## Hello my friend!
 
-### I`m a junior frontend developer.
+### I`m a frontend developer.
 ### [My CV](https://career.habr.com/ievgeny-alexandrovi)
 
 ### Languages and tools:
